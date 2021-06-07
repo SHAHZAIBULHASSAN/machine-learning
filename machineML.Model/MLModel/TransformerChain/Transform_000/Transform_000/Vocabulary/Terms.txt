@@ -1,0 +1,3 @@
+# Number of terms = 2
+0	Dog
+1	man
